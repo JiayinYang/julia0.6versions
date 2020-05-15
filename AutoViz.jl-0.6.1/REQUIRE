@@ -1,0 +1,10 @@
+julia 0.6
+
+Cairo
+Colors
+Cairo
+Reel
+Interact
+NBInclude
+Parameters
+StaticArrays
